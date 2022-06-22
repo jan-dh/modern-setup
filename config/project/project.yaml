@@ -1,0 +1,39 @@
+dateModified: 1655125531
+email:
+  fromEmail: jan.dhollander@teamleader.eu
+  fromName: modern-setup
+  replyToEmail: null
+  template: null
+  transportSettings:
+    encryptionMethod: none
+    host: $CRAFT_SMTP_HOST
+    password: $CRAFT_SMTP_PASSWORD
+    port: $CRAFT_SMTP_PORT
+    timeout: '10'
+    useAuthentication: '0'
+    username: ''
+  transportType: craft\mail\transportadapters\Smtp
+meta:
+  __names__:
+    6d0432ca-1d3b-4f00-852e-ec388087a44d: Homepage # Homepage
+    51d63246-27c0-4d94-9b81-19d2f30aafb9: Common # Common
+    dfefb769-2512-455a-adb3-bbfee8164f68: modern-setup # modern-setup
+    e0e8e3aa-cf42-415c-9340-0575097bf532: Homepage # Homepage
+    f547d841-1b7a-4001-a724-2dca1368b1b5: modern-setup # modern-setup
+plugins:
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: modern-setup
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

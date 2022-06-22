@@ -1,0 +1,10 @@
+/.env
+/.idea
+/vendor
+/web/dist/*
+certs/*
+!certs/.gitkeep
+.DS_Store
+config/license.key
+yarn-error.log
+node_modules

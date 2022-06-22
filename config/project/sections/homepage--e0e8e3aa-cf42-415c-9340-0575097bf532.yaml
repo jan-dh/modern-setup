@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: homepage
+name: Homepage
+propagationMethod: all
+siteSettings:
+  dfefb769-2512-455a-adb3-bbfee8164f68: # modern-setup
+    enabledByDefault: true
+    hasUrls: true
+    template: index.twig
+    uriFormat: homepage
+type: single
