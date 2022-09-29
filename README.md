@@ -1,4 +1,4 @@
-# Example setup with DDEV, TailwindCSS & Vite.js
+# Example setup for Craft CMS using DDEV, TailwindCSS & Vite.js
 
 ## Start DDEV
 
